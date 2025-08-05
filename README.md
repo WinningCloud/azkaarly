@@ -12,48 +12,10 @@ Lightweight, fast, and offline-friendly
 
 🛠 Built With
 React Native
-
 Expo
-
 JSON-based data (duas stored locally)
-
 expo-router for navigation
 
-📁 Project Structure
-bash
-Copy
-Edit
-azkaarly/
-├── app/
-│   ├── index.tsx         # Home screen
-│   ├── morning.tsx       # Morning Azkaar
-│   └── evening.tsx       # Evening Azkaar
-├── assets/
-│   └── azkaar/
-│       ├── morning.json
-│       └── evening.json
-├── components/           # (Optional) UI components
-└── README.md
-🚀 Getting Started
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/azkaarly.git
-cd azkaarly
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-Start the app:
-
-bash
-Copy
-Edit
-npx expo start
 ✨ Credits
 Azkaar content based on authentic sources like Hisnul Muslim & Ahsan-ul-Bayan.
 
